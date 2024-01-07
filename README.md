@@ -1,3 +1,5 @@
+![logo](https://github.com/rohit-padalkar/rohit-padalkar/blob/main/banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Rohit Padalkar</h1>
 <h3 align="center">A passionate AI & DS Student from India</h3>
 <img align = "right" alt="coding" width="450" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
